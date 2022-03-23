@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+        "id": 1,
+        "name": "Ropa",
+        "image": "clothing.png"
+    },
+    {
+        "id": 2,
+        "name": "Tecnología",
+        "image": "technology.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hogar",
+        "image": "home.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Libros",
+        "image": "books.jpg"
+    }
+  ]
+}

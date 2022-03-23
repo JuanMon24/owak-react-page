@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+          "id": 1,
+          "name": "Camisa Tipo Polo",
+          "category_id": 1,
+          "price": "45000",
+          "quantity": 2,
+          "image": "shirt.png"
+      },
+      {
+          "id": 2,
+          "name": "Televisor 49",
+          "category_id": 2,
+          "price": "1245000",
+          "quantity": 1,
+          "image": "tv.jpg"
+      },
+      {
+          "id": 3,
+          "name": "Sofá Gianini",
+          "category_id": 3,
+          "price": "1148810",
+          "quantity": 4,
+          "image": "sofa.jpg"
+      },
+      {
+          "id": 4,
+          "name": "Play Station 4",
+          "category_id": 2,
+          "price": "1200000",
+          "quantity": 2,
+          "image": "playstation.jpg"
+      },
+      {
+          "id": 5,
+          "name": "GOT Libro",
+          "category_id": 5,
+          "price": "95200",
+          "quantity": 1,
+          "image": "got.jpg"
+      }
+    ]
+  }
